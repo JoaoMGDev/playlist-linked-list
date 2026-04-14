@@ -40,11 +40,11 @@ Certifique-se de ter o Node.js instalado em sua máquina.
 
     1. Clone este repositório:
 
-
+        https://github.com/JoaoMGDev/playlist-linked-list.git
 
     2. Acesse a pasta do projeto:
 
-
+        cd playlist-linked-list
 
     3. Instale as dependências:
 
